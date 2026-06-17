@@ -2,7 +2,7 @@
 
 A full-stack conversational AI chatbot built with **LangGraph** and **Streamlit**, featuring persistent memory, real-time streaming, multi-thread session management, and RAG-based document querying.
 
-🔗 **Live Demo:** [http://192.168.1.100:8501](http://192.168.1.100:8501)
+
 
 ---
 
